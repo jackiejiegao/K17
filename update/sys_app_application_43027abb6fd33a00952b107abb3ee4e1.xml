@@ -12,7 +12,7 @@
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>jackie.gao</sys_created_by>
         <sys_created_on>2017-06-19 00:01:53</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>43027abb6fd33a00952b107abb3ee4e1</sys_id>
