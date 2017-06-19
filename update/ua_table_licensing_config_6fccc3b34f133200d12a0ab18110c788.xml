@@ -2,26 +2,20 @@
 <record_update table="ua_table_licensing_config">
     <ua_table_licensing_config action="INSERT_OR_UPDATE">
         <is_fulfillment>false</is_fulfillment>
-        <license_condition/>
-        <license_model>none</license_model>
-        <license_roles/>
         <name>x_95369_k17_lab</name>
-        <op_delete>true</op_delete>
-        <op_insert>true</op_insert>
-        <op_update>true</op_update>
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>jackie.gao</sys_created_by>
         <sys_created_on>2017-06-19 00:01:55</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>0d164f776f173a00952b107abb3ee4fd</sys_id>
+        <sys_id>6fccc3b34f133200d12a0ab18110c788</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_95369_k17_lab</sys_name>
         <sys_package display_value="K17" source="x_95369_k17">cf02f2376fd33a00952b107abb3ee4dd</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="K17">cf02f2376fd33a00952b107abb3ee4dd</sys_scope>
-        <sys_update_name>ua_table_licensing_config_0d164f776f173a00952b107abb3ee4fd</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_6fccc3b34f133200d12a0ab18110c788</sys_update_name>
         <sys_updated_by>jackie.gao</sys_updated_by>
         <sys_updated_on>2017-06-19 00:01:55</sys_updated_on>
     </ua_table_licensing_config>
